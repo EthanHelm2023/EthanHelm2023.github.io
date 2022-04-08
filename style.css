@@ -61,4 +61,13 @@ body  {
 #Title1 {
 	
 	align-content: center
+		
+}
+
+#minus, #plus, #multiply10, #multiply-10 ,#total  {
+	display: inline-block;
+	font-size: 80px;
+	margin: 15px;
+	
+	
 }
