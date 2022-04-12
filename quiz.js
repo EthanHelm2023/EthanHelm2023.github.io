@@ -34,3 +34,60 @@ function checkq2() {
 }
 
 s2.addEventListener("click", checkq2);
+
+var q3 = document.getElementById("q1");
+var q3result = document.getElementById("q1result");
+var s3 = document.getElementById("s1");
+
+function checkq3() {
+	if (q3.value == "Option 3"){
+		q3result.innerHTML = "Correct";
+	}
+	
+	else{
+		q3result.innerHTML = "Wrong";
+		
+	}
+	
+}
+
+s3.addEventListener("click", checkq3);
+
+var q4 = document.getElementById("q1");
+var q4result = document.getElementById("q1result");
+var s4 = document.getElementById("s1");
+
+function checkq4() {
+	if (q4.value == "Option 3"){
+		q4result.innerHTML = "Correct";
+	}
+	
+	else{
+		q4result.innerHTML = "Wrong";
+		
+	}
+	
+}
+
+s4.addEventListener("click", checkq4);
+
+var q5 = document.getElementById("q1");
+var q5result = document.getElementById("q1result");
+var s5 = document.getElementById("s1");
+
+function checkq5() {
+	if (q5.value == "Option 3"){
+		q5result.innerHTML = "Correct";
+	}
+	
+	else{
+		q5result.innerHTML = "Wrong";
+		
+	}
+	
+}
+
+s5.addEventListener("click", checkq5);
+
+
+
