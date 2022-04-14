@@ -3,3 +3,14 @@
 	size: 20vw;
 	display: block;
 }
+
+
+#image, #image {
+	width: 50vw;
+}
+
+.button {
+	
+	display:block;
+	text-align: top;
+}
