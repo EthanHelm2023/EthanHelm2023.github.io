@@ -1,0 +1,71 @@
+.TopBar1 {
+	
+display: inline-block;
+	width: 151px;
+		color: white; 
+			font-size: 1vw;
+				text-align: center;
+	
+}
+
+.TopBar2 {
+	
+display: block;
+	width: 94px;
+		color: black; 
+			font-size: 1vw;
+					vertical-align: top;
+						text-align: center;
+}
+
+.icon1 {
+	
+	
+	display: inline-block;
+		width: 8.5vw;
+}
+
+
+
+#div1 {
+	
+	background-color: #303030;
+		margin: 0px;
+	
+	
+	
+}
+
+#div2 {
+		margin: 0px;
+	
+	
+	
+}
+
+#div3 {
+	
+	background-color: white;
+		margin-left: 0px;
+	
+}
+
+body, head{
+	
+	margin: 0px;
+	
+}
+#Logo {
+	
+	margin-left: 150px;
+		margin-top: 25px;
+			margin-bottom: 20px 
+}
+
+.Logo2 {
+	
+	
+	display: inline-block;
+		align-content: center;
+		
+}
