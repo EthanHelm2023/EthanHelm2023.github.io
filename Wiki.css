@@ -1,2 +1,61 @@
-/* CSS Document */
+#img1 {
+	height: 176px;
+	background-color: lightgrey;
+}
 
+
+
+.Generalsidebar{
+	display: inline-block;
+	border: line;
+	background-color: lightgrey;
+	font-size: 12px;
+	vertical-align: top;
+	
+}
+
+.Contents{
+	
+	display: inline-block;
+	border: line;
+	background-color: lightgrey;
+	font-size: 12px;
+
+}
+
+
+.rightbar1{
+	display: inline-block;
+	border: line;
+	background-color: lightgrey;
+	font-size: 12px;
+	width:30vw;
+	vertical-align: top;
+	
+}
+
+.intro {
+	display: inline-block;
+	
+}
+
+.Generalmiddle{
+	display: inline-block; 
+	width: 49vw;
+	
+	
+}
+
+#img2{
+	width: 25vw;
+	margin: auto;
+	
+}
+
+#img3{
+	width: 20vw;
+	
+	
+	
+	
+}

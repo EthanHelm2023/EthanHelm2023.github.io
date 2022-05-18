@@ -1,0 +1,51 @@
+.TopBar {
+	
+display: block;
+	width: 150px;
+		color: #001489;
+			font-size: 1vw;
+				text-align: right;
+	
+}
+
+#div1 {
+	
+	background-color: #FFD400;
+	margin-left: 250px;
+	margin-top: 0px;
+	display: inline-block;
+}
+
+body, head{
+	background-color: gray;
+	margin: 0px;
+	padding: 0px;
+	
+}
+#Logo {
+	
+
+		margin-top: 25px;
+			margin-bottom: 20px;
+				 	display: inline-block;
+						color: #001489;
+}
+
+.Logo2 {
+	
+	display: block;
+width: 50px;
+		
+}
+
+.img{
+	
+	display: inline-block;
+	
+}
+
+head{
+	display: none;
+	
+	
+}
